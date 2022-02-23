@@ -1,0 +1,664 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A record of some persecutions inflicted upon some of the servants of the Lord in South-Wales with the sufferings of many for not paying tithes, not repairing steeple-houses, and for not coming to steeple-houses : also the fruits of some of the priests who are called ministers of the Gospel in South-Wales, and Pembrook-shire, where some persecution hath been at Harford-west, which in short is here also mentioned, which hath not been brought to publick view till now / by Francis Gawler.</title>
+            <author>Gawler, Francis.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 69 KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A42523</idno>
+            <idno type="STC">Wing G396</idno>
+            <idno type="STC">ESTC R39564</idno>
+            <idno type="EEBO-CITATION">18430521</idno>
+            <idno type="OCLC">ocm 18430521</idno>
+            <idno type="VID">107646</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A42523)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 107646)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1632:71)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A record of some persecutions inflicted upon some of the servants of the Lord in South-Wales with the sufferings of many for not paying tithes, not repairing steeple-houses, and for not coming to steeple-houses : also the fruits of some of the priests who are called ministers of the Gospel in South-Wales, and Pembrook-shire, where some persecution hath been at Harford-west, which in short is here also mentioned, which hath not been brought to publick view till now / by Francis Gawler.</title>
+                  <author>Gawler, Francis.</author>
+               </titleStmt>
+               <extent>28 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Thomas Simmons ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: cropped and slightly faded, with slight loss of print.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Persecution.</term>
+               <term>Society of Friends --  England.</term>
+               <term>Great Britain --  Religion --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-11</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2012-11</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:107646:1" rendition="simple:additions"/>
+            <p>A RECORD OF SOME PERSECUTIONS Inflicted upon ſome of the Servants of the Lord in <hi>SO<g ref="char:V">Ʋ</g>TH-WALES,</hi> with the ſufferings of many for not paying Tithes, not repairing Steeple-houſes, and for not coming to the Steeple-houſes.</p>
+            <p>Alſo the fruits of ſome of the Prieſts who are called Miniſters of the Goſpel in <hi>South-Wales,</hi> and <hi>Pem<g ref="char:EOLhyphen"/>brook-ſhire,</hi> where ſome perſecution hath been at <hi>Harford-weſt,</hi> which in ſhort is here alſo mentioned, which hath not been brought to publick view till now.</p>
+            <q>Spoil<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rs ſhall come from the <hi>North,</hi> which ſhall ſpoil Babylon, <bibl>
+                  <hi>Jer. 51.48.</hi>
+               </bibl>
+            </q>
+            <q>I have raiſed one from the <hi>North,</hi> and he ſhall come upon the Prin<g ref="char:EOLhyphen"/>ces, and as the Potter treadeth clay, <bibl>
+                  <hi>Iſa. 41.25.</hi>
+               </bibl>
+            </q>
+            <q>Lift up your eyes, and behold them that come from the North, <bibl>
+                  <hi>Jer. 13.20.</hi>
+               </bibl>
+            </q>
+            <q>They have perſecuted me, and they will alſo perſecute you, and take joyfully the ſpoiling of your goods, knowing in your ſelves, that you have in Heaven a better and an induring ſubſtance, <bibl>
+                  <hi>Jo. 15.20. Heb. 10.3.</hi>
+               </bibl>
+            </q>
+            <q>Theſe things they will do to you for my Names ſake, <bibl>
+                  <hi>John 15.21.</hi>
+               </bibl>
+            </q>
+            <p>By <hi>Francis Gawler.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Thomas Simmons</hi> at the <hi>Bull</hi> and <hi>Mouth</hi> near <hi>Alderſgate,</hi> 1659.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:107646:2"/>
+            <pb n="3" facs="tcp:107646:2"/>
+            <head>TO THE READER:</head>
+            <opener>
+               <salute>READER,</salute>
+            </opener>
+            <p>WIthin theſe few years the Lord God Almighty was pleaſed to ſend many of his dear and faithful Servants (accord<g ref="char:EOLhyphen"/>ing to his own promiſe) to viſit his own ſeed in <hi>South-Wales,</hi> where were ſome who had long waited for them, hearing the ſound of the Lords Trumpet, <hi>Iſa. 41.25. Jer. 13.20.</hi> in the beginning of the Lords work it this Nation by his dear and faithful Servants, who (by the Lord) ſome of them were moved to come into <hi>South-Wales</hi> where they were received with joy and glad<g ref="char:EOLhyphen"/>neſs of heart, becauſe the ſhout of a <hi>King</hi> was among them, and the Mighty <hi>power of the Lord</hi> did carry them on in great ſtrength and boldneſs to fight his own battel with the weapons which are not car<g ref="char:EOLhyphen"/>nal, but ſpiritual and mighty through God, to the bringing down of ſtrong holds and immaginations to the obedience of him who is the light of the World, and lighteneth every man that cometh into the World, <hi>John 1 9. John 8.12</hi> the which hath been denied by the chief Prieſts and falſe proph<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ts who are called Miniſters of the Goſpel in South Wales; but are now made manifeſt in the day of the Lords ap<g ref="char:EOLhyphen"/>pearance to be blinde guides and hirelings, who do uphold the wor<g ref="char:EOLhyphen"/>ſhip of the Beaſt in the Idols Temple where God dwelleth not, nor is worſhipped with the work of mens hands, <hi>Acts 17.24, 25.</hi> and for declaring againſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſuch have the ſervants of the Lord been impriſoned by the complaint of the Prieſts, who could not ſtand in battel to fight, but (like hirelings) ſome of them fled before half their Sermons were end<g ref="char:EOLhyphen"/>ed; ſo fear ſurpized the hearts of the Hypocrites, as ſaith the Scrip<g ref="char:EOLhyphen"/>tures, <hi>Iſa. 33.14. Pro. 28. 1 John 10 12, 13.</hi> The Hypocrite fleeth when none purſueth, and the hireling fleeth becauſe he is a hireling.</p>
+            <p>And ſuch was the fear of the blinde guides that they prevailed
+<pb n="4" facs="tcp:107646:3"/> with the Magiſtrates to have a guard upon their Steeple-houſe doors, that none ſhould be permitted to come in, but ſuch as have the mark of the Beaſt in their foreheads; And for declaring againſt them, did ſome of the Magiſtrates impriſon and chain by the legs, the ſervants of the Lord, who in boldneſſe did declare the Word of the Lord, deny<g ref="char:EOLhyphen"/>ing the Kingdom of the D<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>vil, who hath caſt many of the children of the Lord into priſon in this Nation, and thereby the Scripture of truth was f<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lfiled, <hi>Rev 2, 10.</hi> And the impriſonments of many in South-Wales is here laid d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>wn which is a Record of ſome S<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fferings which hath b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>en k pt, <gap reason="illegible" resp="#MURP" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> bro<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ght to pu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lick view till now, and it is not a thing that w<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> have done haſtily, but long have waited in it, and now (having opport<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nity) we tho<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ght it good ſo to do, not in any evil intent again<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t th<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>; for we are taught to do go<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d for evil, and the deſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re of our hearts is, that this may be a warning into th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m that th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y may do ſo no more, and ſo read this over in the cool of their ſpi<g ref="char:EOLhyphen"/>rits, wherein is laid down the actings they have acted in their rage and heat of their ſpirits, which is condemned by the light, which is the condemnation of the World, (out of which we are redeemed, and ſtands on top of it) <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ohn 3 19</hi> and wee count it great joy that wee are found worthy to ſuffer for the Name of the Lord, who ſent his M<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſſeng<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rs among us to preach the everlaſting Goſpel freely without money or price, as his Servants, M<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſſengers and Prophets did in for<g ref="char:EOLhyphen"/>mer ages, as the ſcriptures of truth doth bear witneſſe, <hi>Jſa 55.12. Luke 10.3. Mat 1<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.8, 9.</hi> the which is now fulfilled, at which the Prieſts, blinde guides and hirelings are tormented, whoſe Goſpel is not without a price in the pariſh where they preach it, ſixty, eighty an hundred more or leſſe, as they can agree; and they that preach it fight, ſtrike, and p<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l by the hair of the head ſuch as declare againſt them<g ref="char:punc">▪</g> And if any deny to pay them their wages, to the value of ten pence, they caſt them into priſon, and ſome of their wives have lear<g ref="char:EOLhyphen"/>ned of them to do the ſame, as will plainly appear by the reading this Book.</p>
+            <p>Written by us who in ſcorn (by the blinde guides and their hearers) are called <hi>QUAKERS.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="5" facs="tcp:107646:3"/>
+            <head>A record of ſome ſufferings in South-Wales, &amp;c.</head>
+            <p>
+               <hi>JOhn ap John</hi> being at a meeting in a <hi>Cardiff</hi> in the County of <hi>Clamorgan,</hi> by the command of <hi>Henry Griffith</hi> a baptiſt, called <hi>Captain Griffith,</hi> was brought before him in the Caſtl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of <hi>Cardiff,</hi> who having no power to commit him to Pri<g ref="char:EOLhyphen"/>ſon himſelf, ſent ſome Souldiers with him to <hi>Richard Sheares</hi> one of the Bailiffs of <hi>Cardiff,</hi> who being a harmleſſe man, it was thought he kept out of the way; then by the Souldiers he was brought before <hi>Roger Sheares,</hi> Bayliff, who had but little deſire to perſecute him; but the next day by the per<g ref="char:EOLhyphen"/>ſwaſion of the Prieſts, the Bayliffs ioyned with <hi>George Mor<g ref="char:EOLhyphen"/>gan,</hi> and committed him to priſon with others, namely, <hi>Francis Gawler, John Mayo, Toby Hodge</hi> of <hi>Cardiff,</hi> where they continued a few dayes, and afterwards let forth and never brought to tryal.</p>
+            <p>Again <hi>John ap John</hi> for ſtanding in the Steeple houſe in <hi>Swanſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y</hi> in the ſame County a witneſſe againſt <hi>Evan Griffeth,</hi> called a Miniſter, was haled forth by the hair of the head by <hi>J. Roberts</hi> a Miniſter, and being brought before the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uſtice, was again ſtruck and pulled by the noſe by one <hi>Moris Bedwel</hi> called Miniſter of <hi>Swanſey,</hi> and after this abuſing before the Juſtice the evil doers were let go, and <hi>John ap John</hi> committed to the County Goal in <hi>Cardiff</hi> by <hi>Rowland Dawkins</hi> called a Ju<g ref="char:EOLhyphen"/>ſtice, and there was detained twenty weeks, and after relea<g ref="char:EOLhyphen"/>ſed without any tryal.</p>
+            <p>
+               <hi>Margaret Thomas</hi> and <hi>Rebeckah</hi> for ſtanding witneſſes againſt the fore-named fighting Prieſts of <hi>Swanſey</hi> were much abuſed, and impriſoned in <hi>Swanſey,</hi> and after were releaſed, and ne<g ref="char:EOLhyphen"/>ver brought to tryal, and turned forth of <hi>Swanſey;</hi> and <hi>Wil<g ref="char:EOLhyphen"/>liam B<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>van of Swanſey</hi> went with a boat and brought them o<g ref="char:EOLhyphen"/>ver the water again into <hi>Swanſey;</hi> for which he was Impri<g ref="char:EOLhyphen"/>ſoned and chained by the leg, in the year <hi>Lewis Jones</hi> being Portriff.</p>
+            <p>Again <hi>John ap John</hi> was by the Conſtables of <hi>Swanſey</hi> turn<g ref="char:EOLhyphen"/>ed forth ſeveral times, and ſtill returned bearing witneſſe a<g ref="char:EOLhyphen"/>gainſt them.</p>
+            <pb n="6" facs="tcp:107646:4"/>
+            <p>
+               <hi>Elizabeth Holmes</hi> and <hi>Alice Burkat</hi> for teſtifying againſt the Prieſts called Miniſters, were Impriſoned in the Dark-houſe in <hi>Swanſey,</hi> and were releaſed and never brought to tryal.</p>
+            <p>
+               <hi>Thomas Holmes</hi> and <hi>John Brown</hi> being in <hi>Monmouth</hi> Shire at a place called the <hi>Slow,</hi> at a meeting where many people were, near <hi>Curwent, John Brown</hi> was moved to go to the Stee<g ref="char:EOLhyphen"/>ple-houſe, at <hi>Curwent,</hi> where he ſpake to the Prieſt, and was apprehended by the command of <hi>John Nicholas</hi> Governour of <hi>Chepſtow,</hi> and <hi>William Bleathin</hi> called Juſtice; <hi>Thomas Holmes</hi> being near the place where <hi>John Brown</hi> was detained priſoner went to viſit him, was apprehended and kept priſoner that night with him, and the next day was brought before <hi>John Nicholas</hi> and <hi>William Bleathin,</hi> who by a warrant ſent them from Conſtable to Conſtable towards their own Countrey</p>
+            <p>
+               <hi>Francis Gawler</hi> of <hi>Cardiff,</hi> in the County of <hi>Clamorgan,</hi> be<g ref="char:EOLhyphen"/>ing in the Steeple-houſe in <hi>Swanſey,</hi> ſtanding peaceably and ſtedfaſtly looking on the Prieſt <hi>Matthews,</hi> diligently harkning unto him, was ſuddenly haled forth, though he did not ſpeak a word to him, which was about the beginning of his Sermon, and was impriſoned in the Town Hall in <hi>Swanſey,</hi> and after releaſed, and never brought before the Magiſtrate, <hi>Lewes Jones</hi> being Portriff that year.</p>
+            <p>Again <hi>Elizabeth Holmes</hi> being moved of the Lord, went in<g ref="char:EOLhyphen"/>to the Steeple-houſe at <hi>Swanſey</hi> and there did declare the word of the Lord amongſt the people, who diligently did heark<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n unto her before the Prieſt came thither, for which ſhe was impriſoned in the aforeſaid dark-houſe in <hi>Swanſey,</hi> and chained by the leg a great diſtance from the door, leaſt ſhe ſhould ſee the Prieſts paſs by the door, who were in great fear of her who was a terror to them, and as they paſſed by the priſon, though their faces ſhe did not ſee, their portion they had, whoſe cruelty and rage was ſuch, that none was permit<g ref="char:EOLhyphen"/>ed to bring her ſuch neceſſaries as ſhe had need of, but through a hole of the door with a cane ſhe ſucked ſome bear, and no law of the Nation had ſhe broken, but for ſpeaking to the peo<g ref="char:EOLhyphen"/>ple, and thus was ſhe dealt with by the hands of drunkards and ſwearers; theſe are the fruits of the Magiſtrates and Mini<g ref="char:EOLhyphen"/>ſters of <hi>Swanſ y;</hi> like Prieſts, like people.</p>
+            <p>
+               <hi>Elizabeth Richard</hi> of <hi>Cardiff</hi> Widdow, for ſpeaking in the
+<pb n="7" facs="tcp:107646:4" rendition="simple:additions"/> Steeple-houſe at <hi>Swamſey</hi> to <hi>Morrice Bidwel</hi> called Miniſter, af<g ref="char:EOLhyphen"/>ter he had ended, was by one of his hearers <hi>Jo. Daniels</hi> daughter ſtruck with her Bible, and after put in priſon, releaſ<g ref="char:EOLhyphen"/>ed and not brought to tryal</p>
+            <p>
+               <hi>Elizabeth Holmes</hi> meeting with <hi>Morrice Bidwel</hi> in the ſtreet in <hi>Swanſey,</hi> ſpake a few words unto him in much moderation for which ſhe was impriſoned a day and a night in the afore<g ref="char:EOLhyphen"/>ſaid priſon, in the year that <hi>John Daniel</hi> was Mayor, a member of his Church.</p>
+            <p>Again <hi>Elizabeth Holmes</hi> being moved of the Lord to go to the Steeple-houſe of <hi>Swanſey</hi> where <hi>Marmaduke Matthew</hi> cal<g ref="char:EOLhyphen"/>led a Miniſter was, for which ſhe was impriſoned in the fore<g ref="char:EOLhyphen"/>ſaid priſon in <hi>Swanſey</hi> and ſtill releaſed in the year 1659 <hi>Tho<g ref="char:EOLhyphen"/>mas Williams</hi> being Mayor.</p>
+            <p>
+               <hi>Thomas Shaw</hi> for teſtifying againſt the foreſaid Prieſt in the Steeple-houſe in <hi>Swanſey,</hi> was haled forth and impriſoned in the foreſaid dark-houſe, but after was brought to another priſon, and there detained about twenty dayes, and af<g ref="char:EOLhyphen"/>terwards releaſed <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>, in the year 1659. <hi>Thomas Williams</hi> now being Mayor, and the ſaid Prieſt <hi>Matthews</hi> ſaid to <hi>Thomas Shaw,</hi> that he had made his hearers three fold more the Children of the <hi>Devil</hi> then they were be<g ref="char:EOLhyphen"/>fore, ſo by the Prieſts own confeſſion they are the children of the devil; Therefore the Magiſtrates which are perſecutors, muſt needs be of the <hi>Devil,</hi> who caſt into priſon, and chain by the leggs, by which the Scripture is fulfilled, which ſaith Chriſt, ſome of you ſhall the <hi>Devil</hi> caſt into priſon, <hi>Rev.</hi> 2.10.</p>
+            <p>
+               <hi>Roger <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ouldbeth</hi> of <hi>Swanſey,</hi> a man who hath been a Com<g ref="char:EOLhyphen"/>miſſion Officer in the ſervice of the Common-wealth nine or ten years in <hi>England</hi> and <hi>Ireland,</hi> and now his outward being in <hi>Swanſey,</hi> was endeavoured to be hindred to follow his cal<g ref="char:EOLhyphen"/>ling, which the Law of the Nation allowes, he being a faithful Souldier to the Common-wealth; but the Magiſtrates of <hi>Swanſey</hi> have impriſoned him for telling them the truth, who are time-ſerving men and through the envy of <hi>William Baily</hi> of <hi>Swanſey,</hi> an envious, angry time-ſerving profeſſor, was lately impriſoned in the Mayoralty of <hi>Thomas Williams</hi> this preſent year, 1659</p>
+            <p>Again <hi>Elizabeth Holmes</hi> and <hi>Alice Burkat,</hi> being at a meet<g ref="char:EOLhyphen"/>ing at <hi>Walter Watkins</hi> houſe in <hi>Sher-Newton</hi> in <hi>Monmouth-ſhire,</hi>
+               <pb n="8" facs="tcp:107646:5" rendition="simple:additions"/> were abuſed by ſome of that pariſh, they lodging there that night, ſome came by night and made a great ſtir about the houſe, intending miſchief, <hi>William Bleathin</hi> called Juſtice liv<g ref="char:EOLhyphen"/>ing near the place, who was not unacquainted thereof, to his ſhame, in ſuffering ſuch things; the next day the Conſtables brought them before the Juſtices, who made a paſs to ſend them away as vagabonds, but knowing it would be to their ſhame, let them go.</p>
+            <p>Again <hi>Elizabeth H<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lmes,</hi> being moved of the Lord to go to <hi>Lanvaches,</hi> where <hi>Henry Walter</hi> and one <hi>Sims</hi> of <hi>Ch<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>pſtow</hi> was, where ſhe was much abuſed by their hearers, and after they had ended at their Steeple-houſe, they went into ano<g ref="char:EOLhyphen"/>ther houſe whether <hi>Elizabeth Holmes,</hi> went unto them, whom they turned out and ſhut the door.</p>
+            <p>
+               <hi>Elizabeth Holms</hi> and <hi>Alice Burkat,</hi> were moved to go to the Steeple-houſe of <hi>Newport,</hi> where <hi>Henry Walter</hi> was, who were ſuddenly haled forth, and brought down to the bridge, and there kept priſoners, and the chief actor was one <hi>Henry Mor<g ref="char:EOLhyphen"/>gan Reece</hi> a bruitiſh man, who hath his mark in his fore-head, one of <hi>Henry Walters</hi> Church.</p>
+            <p>Again <hi>Alice Burkat</hi> at another time, being in the Steeple-houſe of <hi>Newport</hi> where <hi>William Jenkins</hi> was a journey-man of <hi>Henry Walter,</hi> ſhe was haled forth and abuſed, and pricked with a pin in her arm by <hi>William Williams</hi> of <hi>Newport.</hi>
+            </p>
+            <p>
+               <hi>Francis Gawler</hi> going for <hi>Briſtol,</hi> was moved to go to a Stee<g ref="char:EOLhyphen"/>ple-houſe at <hi>Magor,</hi> where <hi>Thomas Barns</hi> called Miniſter was, he having ended, <hi>Francis Gawler</hi> asked him a queſtion, and three Conſtables were ready to hale him forth, who being not very haſty, <hi>Edward Herbert</hi> called a Juſtice thruſt him, and led him in much rage out of the <hi>Steeple-houſe,</hi> and then gave him to the Conſtables with much threatning words to bring him to the Ale-houſe to priſon him, which they did ac<g ref="char:EOLhyphen"/>cordingly, and afterwards brought him to the houſe of one <hi>John Walter</hi> of <hi>Magor</hi> where <hi>Edward Herbert</hi> and <hi>William Pack<g ref="char:EOLhyphen"/>er</hi> and <hi>Barns</hi> the Prieſt were; Then <hi>Edward Herbert</hi> ſaid to <hi>Francis Gawler,</hi> he did go about to diſtract the Miniſters, and ſaid, he did not follow his calling, in which he proved him a lyar, for he did follow his calling, and met him the day before on the road going to <hi>Briſtol</hi> about his calling, then <hi>Ed<g ref="char:EOLhyphen"/>ward
+<pb n="9" facs="tcp:107646:5"/> Herbert</hi> ſaid he could commit him to priſon for telling him he did lye, though it was ſo; and in great rage commanded to bring F. <hi>G.</hi> and accordingly they did bring him forth of <hi>Mago<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> this is the fruit of Prieſt <hi>Barnes</hi> and his chief mem<g ref="char:EOLhyphen"/>ber <hi>Edward Herbert.</hi>
+            </p>
+            <p>Again, <hi>Francis Gawlar</hi> was moved to go to the Steeple-houſe at <hi>Newport</hi> where <hi>Henry Walter</hi> was, who made a ſigne to ſome of his hearers (as ſome took notice of) and ſuddenly <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>. <hi>G.</hi> was haled away, and could not have the liberty to clear his conſcience to his former Paſtor, which lay upon him to do; and after he had ended in the yard, he came ſomething near to <hi>Henry Walter,</hi> and asked him whether he did own the men in haling him away; his anſwer was, why would he not let him, alone? and ſuddainly (according to his mind) before him <hi>Henry M<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rgan Reece,</hi> one of his Church, who is formerly mentioned, haled him away, and brought him down to the Town, and then up again the Hill, turning him out of the Town, charging him he ſhould not come again there, ſaying, the Mayor <hi>James Young</hi> had given him that order, but had none under his hand for ſo doing, theſe are the fruits of <hi>Hen Walter</hi> who was formerly <hi>Fra. Gawlars</hi> Paſtor, who was called before the Church for denying them, and that which he had to lay to his charge was, that he turned people from the Steeple-houſe, and ſaid he was bewitched, and ſo was a<g ref="char:EOLhyphen"/>fraid that <hi>Fra. Gawler</hi> would bewitch him, and ſo went away and would talk no more with him.</p>
+            <p>Again, <hi>Edward Edward, Eliz. Holmes</hi> and <hi>Fr Gawlar</hi> of <hi>Car<g ref="char:EOLhyphen"/>diff</hi> being at a meeting in <hi>Shere-newton</hi> in the county aforeſaid, were taken out of the meeting, and brought before <hi>John Ni<g ref="char:EOLhyphen"/>cholas, William Bleathie,</hi> and <hi>Robert Jones,</hi> called Juſtices, in <hi>Willi<g ref="char:EOLhyphen"/>am Bleathins</hi> houſe in the Pariſh aforeſaid, where this following diſcourſe was.</p>
+            <p>I. N. R. I. W. B. <hi>You have broken the Law in meeting together un<g ref="char:EOLhyphen"/>der the tree ſo near the Steeple-houſe, and we have ſeveral times warn<g ref="char:EOLhyphen"/>ed you of it before this, therefore we muſt deal with you according to the law.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> We have broken no law of the Nation in meeting together, for the Law of the Nation giveth liberty to all for to meet together in the faith of Chriſt, in the which we meet
+<pb n="10" facs="tcp:107646:6"/> together; therefore we have broken no law.</p>
+            <p>J. N. <hi>The law ſaith, the Miniſter ſhould not be disturbed going to, or coming from his exerciſe.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> That law we have not broken now, for we did not ſee the Miniſter, nor ſpake to him.</p>
+            <p>J. N. <hi>Though you did not ſee the Miniſter nor ſpeak with him, yet you know he was di<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>turbed by your meeting, being in the way ſo near the Steeple-houſe where the people did go forth; ſo by this there was a disturbance.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> We believe the Miniſter and you were troubled be<g ref="char:EOLhyphen"/>cauſe the people came forth of the Steeple-houſe to our meet<g ref="char:EOLhyphen"/>ing, yet we have not broken the law, for the law ſaith it muſt be proved that ſuch came wilfully, maliciouſly, and of ſet purpoſe to to make diſturbance, and if ſuch an Oath were ta<g ref="char:EOLhyphen"/>ken before thee, I think thou wouldſt hardly believe it.</p>
+            <p>J. N. <hi>We ſhall <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o nothing but what we have proof for, ſome did hear the voice of one of you in the Steeple-houſe, and ſo it muſt be a distur<g ref="char:EOLhyphen"/>bance</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> It muſt be proved that ſuch a one did maliciouſly and wilfully make a diſturbance; therefore let it be proved.</p>
+            <p>J. N. Walter Jenkins <hi>voice was heard in the Steeple-houſe, and therefore it was a disturbance.</hi>
+            </p>
+            <p>
+               <hi>Anſw. Walter Jenkins</hi> was not here this day; therefore be<g ref="char:EOLhyphen"/>lieve them not who inform thee againſt us.</p>
+            <p>J. N. Walter Jenkins <hi>was here the laſt time, and his voice was heard then.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> That which thou doſt queſtion us for, is for meeting together now, and that we have made a diſturbance, which cannot be proved; therefore what <hi>Walter Jenkins</hi> did is paſt, and he is ready to give an account for what he hath done.</p>
+            <p>J. N. <hi>Do you own the Scriptures to be the word of God, yea or nay?</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> If thou ſaiſt the Scripture is the word of God, prove it, and produce one Scripture that ſaith the Scripture is the word of God.</p>
+            <p>J. N. <hi>I will do ſo.</hi>
+            </p>
+            <p>R. Jones, <hi>We will not prove it till you first deny it.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> It lyes upon the <hi>Governor</hi> to do it, whether we deny it or no, becauſe he ſaid he would prove it, therefore let him.</p>
+            <pb n="11" facs="tcp:107646:6"/>
+            <p>R.J. <hi>We ſhall not prove it tell you first deny it.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> The Governor ſaid he would prove it, ſo we may refuſe the anſwer till he proves; yet notwithſtanding for the ſake of the ſimple-hearted people here, if you will take an anſwer according to the Scriptures of truth, we ſhall anſwer you which we know may ſatisfie you.</p>
+            <p>R. I. <hi>We are willing to receive an anſwer according to the Scri<g ref="char:EOLhyphen"/>ptures of truth.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> The Scriptures we own to be the words of God which are a declaration of the Word of God, which was from the beginning, before Scriptures were written, and is as a hammer and a ſword dividing aſunder between the mar<g ref="char:EOLhyphen"/>row and the bones, and to this the Scripture ſtands a witneſs for us, <hi>Joh.</hi> 1 1, 2, 3. <hi>Heb.</hi> 4.12.</p>
+            <p>J. N. <hi>You have given us more ſatisfaction then ſome of your friends have done, and you ſpeak very well to own the Scripture to be words of God, which indeed is truth, and we are glad to hear you ſay ſo.</hi>
+            </p>
+            <p>R. I. <hi>But how is it you call our Miniſters deceivers, and ſome of you never ſaw their faces before, which is a ſtrange thing to us, I pray you tell us?</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> It is an eaſie thing to know a Deceiver and a falſe Prophet, for they are marked with the mark of the Beaſt in their foreheads, and you may read in the Scripture ſo many hundred were marked with the mark of the Beaſt in their foreheads, and they were thoſe that upheld the worſhip of the Beaſt in the Idols Temples, where the beaſt is now worſhipped in this generation, by which mark the falſe prophets are known to be deceivers, though their faces we never ſee; and take heed how you uphold them, leaſt you be partakers of their plagues.</p>
+            <p>R. J. <hi>Indeed we read in Scripture (as you ſay) that ſo many hun<g ref="char:EOLhyphen"/>dreds were marked with the mark of the Beaſt in their foreheads, but it is a strange thing to us that you know our Miniſters by that mark</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> I believe thee friend; where thou art, that is a ſtrange thing to thee; but if thou wilt come down to Gods witneſs, the light which ſhines in thy heart, thou wilt come to ſee it as plain as we ſpeak it.</p>
+            <p>J. N. <hi>Yea, but do you not know that you have profited by our Mini<g ref="char:EOLhyphen"/>ſters, and that the preſence of God went with them? I pray you honeſt<g ref="char:EOLhyphen"/>ly confeſs.</hi>
+            </p>
+            <pb n="12" facs="tcp:107646:7"/>
+            <p>
+               <hi>Anſw.</hi> I ſhall honeſtly declare unto thee, there was a time that the preſence of God went with ſome of them, and in that time they did bear witneſs againſt Tythes, Types, figures and ſhadows, ſaying, Chriſt was come, and hath ſet an end to Tythes; and ſome of them durſt not receive them for con<g ref="char:EOLhyphen"/>ſcience ſake, the which now they receive and plead for, and receive hundreds by the year by it; therefore the preſence of God is withdrawn from them whom we deny, and by their fruits they are known.</p>
+            <p>J. N. <hi>We will l<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hem alone to plead for themſelves.</hi>
+            </p>
+            <p>
+               <hi>Anſw</hi> Do ſo; and let them fight for their God, and our weapons ſhall not be carnal, but ſpiritual.</p>
+            <p>R. J. <hi>You ſay the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ight ſhines in the heart which gives the know<g ref="char:EOLhyphen"/>ledge of God in the face of Jeſus Chriſt, and in ſo doing you add to the Scriptures.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> We ſay the light ſhines in the heart which gives the knowledge of God in the face of Jeſus Chriſt, and if thou denyeſt it, it lyeth upon us to prove it.</p>
+            <p>R. J. <hi>The Scrip ure doth not ſay it ſhines in the heart, therefore you add to the Scripture.</hi>
+            </p>
+            <p>
+               <hi>Rob. Jones</hi> and the Governor took a Bible and ſought the place, and they had the words of the place without book; but the words, the light ſhines in the heart, ſo they miſſed to find the place; then <hi>Fran. Gawlar</hi> took the book and con<g ref="char:EOLhyphen"/>cluded with <hi>Rob. Jones,</hi> that if it was not ſo as he ſaid, he muſt own his error before the people, to which he ſaid, very good, he would do ſo; then <hi>F Gawlar</hi> turned to the place of Scripture, <hi>Cor.</hi> 2.4. and gave it him to read, which he did, and honeſtly confeſſed his error before the people, and ſaid, you are in the truth, and we are in the error</p>
+            <p>
+               <hi>Anſw.</hi> We ſhall not make thee an offender for a word, but if thou hadſt had ſuch advantage againſt us, thou wouldſt hardly have paſt it by, but we are taught to do fo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> thou<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>and the Governor have asked us many queſtions which have b<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>n anſwered, and you cannot ſay you are unſatisfied in any one particular.</p>
+            <p>Now we would ask you one queſtion.</p>
+            <p>Queſt. <hi>Did</hi> Peter <hi>or</hi> Paul <hi>ſpeak one thing and mean another when they ſpake?</hi>
+            </p>
+            <pb n="13" facs="tcp:107646:7"/>
+            <p>
+               <hi>R. Jones.</hi> Anſwered <hi>Nay, they did not ſpeak one thing and mean another.</hi>
+            </p>
+            <p>
+               <hi>Reply,</hi> Then do not thou make meanings to their words.</p>
+            <p>
+               <hi>R. Jones.</hi> Anſwered <hi>I ſhall not do it.</hi>
+            </p>
+            <p>Then the Governor and he went out of <hi>Will. Bleathins</hi> houſe where many people were, a great room full, who ſaid one to another, the Quakers are in the truth, and the Juſtices are in the error, ſo <hi>Eliz. Holmes</hi> and <hi>E<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. Edward,</hi> were brought to the Ale-houſe and there kept priſoners; but people had liber<g ref="char:EOLhyphen"/>ty to come unto them, and the room could not contain the people that were there, very diligently hearkening unto them, who (after the Prieſt had done his exerciſe) were releaſed by <hi>J<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. Nicholas</hi> and <hi>Robert Jone<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> the forementioned men called Juſtices with whom this diſcourſe hath been which we now bring to publike view, finding it upon record, the which may ſhame <hi>Edward Herbert</hi> and other Juſtices of <hi>Glamorgan</hi>-ſhire, who have acted contrary to the law of the Nation which is here laid down.</p>
+            <p>Again, <hi>Frar. Gawlar</hi> ſeveral times hath been haled out of the Steeple-houſe in <hi>Cardiffe,</hi> and in the ſtreets much abuſed by Drunkards, ſwearers and ſcolding women, namely <hi>Anthony P<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>wry</hi> Shoo-maker, <hi>Thomas Wi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iams, James Evans, Guy</hi> the Fiſher who hath been in actual Arms againſt the Common<g ref="char:EOLhyphen"/>wealth, and many more; and ſuch as theſe are the Prieſts guards in the Steeple-houſes and ſtreets and by thoſe have we (who have been faithful in our places and truſts in the ſervice of the Commonwealth) been much abuſed, to the ſhame of the Ma<g ref="char:EOLhyphen"/>giſtrates and Prieſts of <hi>Cardif<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> be it ſpoken, who ſuffered their former friends to be ſo dealt with, onely for clearing their conſciences to their former Teachers, namely <hi>E. El<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>,</hi> and <hi>Joſuah Miller,</hi> who did in <hi>Cardif<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> boaſt in the Poſt-maſters houſe at one time, that if any of the Quakers would come to their meetings, he would diſpute; accordingly <hi>Francis Gawlar</hi> was moved to go to the Steeple-houſe in <hi>Cardiff,</hi> where hundreds of people were expecting ſome things; then <hi>Francis Gawlar</hi> ſpake unto him, to which he returned and ſaid, Go ſtitch thy hats, and ſo like a hireling fled before half his Ser<g ref="char:EOLhyphen"/>mon was ended; and the next day he did endeavor to Impri<g ref="char:EOLhyphen"/>ſon <hi>Francis Gawlar,</hi> who by a warrant was brought before the
+<pb n="14" facs="tcp:107646:8" rendition="simple:additions"/> Bayliffs who cleared him, underſtanding how the Prieſt had boaſted before, and would not ſtand, but fled before half his Sermon was ended, the which tormented him, and his ſhame was ſo great, that he endeavored to clear himſelf by a book called <hi>Antichriſt in <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> man the Quakers Idol,</hi> which was anſwer<g ref="char:EOLhyphen"/>ed, read the book entituled <hi>Antichriſt in man. Chriſts ene<g ref="char:EOLhyphen"/>my,</hi> wherein his lying is made manifeſt, and damnable do<g ref="char:EOLhyphen"/>ctrine, who ſaith, <hi>Its an error, if not damnable, to ſay that Chriſt is the wa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> to ſalvati<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n;</hi> this he affirms in his book <hi>page</hi> 13. <hi>line</hi> 5. and 6. So its little matter what ſuch a man as this proteſts before angels or men, who holds ſuch a doctrine, and ſaith, <hi>Lying is <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ſ<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>, but a change of the mind;</hi> this hath been charged upon him, and is ready to be proved by witneſſes, and for this he ſtroke <hi>Francis Gawlar</hi> with his kane, with his two hands in <hi>Cardiff.</hi>
+            </p>
+            <p>Again, <hi>Francis Gawlar</hi> for asking <hi>Benjamin Flower</hi> Prieſt, a queſtion in <hi>Cardiff</hi> in the Steeple-houſe, where the Judges of the County were preſent, a warrant was given forth with <hi>John Gibbs</hi> a Lawyer, <hi>John Herbert, Rice Davis</hi> and <hi>John Fennels</hi> hands to it, and according to their warrant <hi>F. Gawler</hi> was ap<g ref="char:EOLhyphen"/>prehended and brought before them in the Town Hall in <hi>Cardi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> where the Conſtables were commanded to take off his hat, but they were not willing to do it; but fearing their threatenings with a fine, took off his Caſtor from his head, which was never brought home to him to this day, and by them he was committed to priſon, which was a breach of their Sabbath and the Law of t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e Nation, being done on the firſt day of the week, the which was not proved againſt him, yet by them was he kept priſoner for many moneths; and at one time he ſpeaking to Prieſt <hi>Flower</hi> in the ſtreet paſſing by, he was that night ſet up cloſe priſoner, about the ninth or tenth hour of the night by the Serjeants, who as they ſaid were commanded ſo to do by <hi>Reece Davis,</hi> who was in the Prieſts houſe that night, and a time after <hi>N. S.</hi> wife went to <hi>Reece D<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>vis</hi> unknown to <hi>F. G.</hi> and asked him if he would give <hi>F.G.</hi> leave to go to a meeting; his anſwer was, If <hi>F. G.</hi> would pro<g ref="char:EOLhyphen"/>miſe to let Mr. <hi>Flower</hi> (as he called him) alone, he would let him forth of priſon, but no ſuch promiſe <hi>F.G.</hi> could make, and ſo was kept cloſe priſoner a long time, and after was re<g ref="char:EOLhyphen"/>leaſed
+<pb n="15" facs="tcp:107646:8" rendition="simple:additions"/> and never brought to tryal. So <hi>J. H.</hi> being dead and <hi>J. F.</hi> being ſince convinced of the evil of his ways; we ſhall ask <hi>John Gibbs</hi> Lawyer, and <hi>Riece Davis</hi> Baylie, whether they did do as they would be done by, in taking <hi>F.G.</hi> Caſtor which was worth a great deal of money, and whether they ſold it we know not, but we know the Lawyer loves money, which is the root of all evil, and <hi>F.G.</hi> his Caſtor is not brought home yet, therefore the Lawyer and Laylie ſtands guilty at the Ear.</p>
+            <p>Again, <hi>Alice Burkat,</hi> and <hi>Francis Gawlar</hi> being moved by the Spirit of truth to go to <hi>Landaff</hi> neer <hi>Cardiff,</hi> where <hi>Benjamin Flower</hi> the aforenamed Prieſt was, being the day they call Eaſter Monday, where many people were with this day-ob<g ref="char:EOLhyphen"/>ſerving Prieſt, to keep up the Idol-day, and they coming to one part of the Steeple-houſe, the door was faſtened, and <hi>John Jones</hi> the Conſtable would not let him go in: but thoſe who had the mark of the Beaſt in their fore-heads, who would fight for the Prieſt and the Idol-day, were willingly let in; but very watchful was the Conſtable, fearing <hi>Francis Gawlar</hi> &amp; <hi>Alice Burkat</hi> ſhould come in among them; but after the Prieſt had ended the Idol-day <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Sermon, <hi>Alice B<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rkat</hi> met the Prieſt in the yard, and ſome of his hearers did exceedingly abuſe her, and beat her with ſtones in the Prieſts ſight, and tore her cloathes from about her: and this is the fruit of Prieſt <hi>Flower</hi> at his firſt coming, who hath made a very good bargain at <hi>Cardiff,</hi> where he hath a Tithing barn; and that would not ſerve his turn, but about 80 <abbr>l.</abbr> he muſt have from a<g ref="char:EOLhyphen"/>nother place yearly, and if it ſhould fail, it is to be feared the Prieſt would be gone to <hi>England</hi> again, where ſuch wages as he hath in <hi>Wales</hi> he could not have; and for providing ſuch great wages for him, the children of the Drunkards, Swear<g ref="char:EOLhyphen"/>ers and Devourers of the Creation, are waſhed in the Steeple-houſe with water, in a filthy popiſh manner; and for theſe Je<g ref="char:EOLhyphen"/>ſuitical practiſes which he doth contrary to Scripture, is this man cryed up by the enemies of the Common-wealth, and his houſe is inlarged for him, thinking his Trade will hold. And his Clerk <hi>Thomas Wells,</hi> one who ſings Idle ſongs, got out of Ballads, ſaith <hi>Amen</hi> to his evil way: and he ſaith, he muſt have his due from the Devil; and for asking this Prieſt,
+<pb n="16" facs="tcp:107646:9"/> Was he not aſhamed to come from <hi>England</hi> into <hi>Wales</hi> to co<g ref="char:EOLhyphen"/>vet peoples goods? His wife ſaid, they came from <hi>England</hi> into <hi>Wales</hi> among Devils, and violently came with the Key of her husbands Tithing-barn in his fight, and ſtruck <hi>Francis Gawlar,</hi> which he felt a long time after; It is a juſt reward for them to be called Devils, for maintaining of him, who of late began to gather a Church; and to help him in the work, his Brethren fighters, takers of Oxen, Cowes and Sheep, are called ſome of his Church-members, namely, I.M. I.F. E.E. who are ſuch</p>
+            <p>Again, <hi>Thomas John</hi> and <hi>Toby Hodges</hi> of <hi>Cardiff,</hi> were com<g ref="char:EOLhyphen"/>mitted to priſon, for calling <hi>Richard Simmons</hi> and <hi>Edmund Ellis</hi> dumb doggs and hirelings, as their commitment expreſ<g ref="char:EOLhyphen"/>ſed, and there they were deteined about ſix weeks, by <hi>George Morgan</hi> Bailiff of <hi>Cardiff,</hi> but his Brother Bailiff one <hi>Jenkin Williams</hi> had no hand in it, which he did well, knowing that they were ſuch men, and <hi>Edmund Ellis</hi> is found guilty, for taking two Oxen worth about twelve pounds, which is ſet down in this Book more at large.</p>
+            <p>Again, <hi>Toby Hodges</hi> and <hi>Dorcas Erberry</hi> of <hi>Cardiff,</hi> were com<g ref="char:EOLhyphen"/>mitted to priſon, and there detained many months, for ſpea<g ref="char:EOLhyphen"/>king to <hi>B njamin Flower</hi> Prieſt in <hi>Cardiff,</hi> and they were once releaſed, and brought in again by the order of <hi>Reece David</hi> Bailiff, and after releaſed, and never brought to Tryal, in the year 1658.</p>
+            <p>Again, <hi>Thomas John Renſham</hi> of the Pariſh of <hi>Laviſhion</hi> in the County of <hi>Glamorgan,</hi> for ſtanding a witneſs in the Steeple-houſe of <hi>Whitchurch,</hi> againſt <hi>Lewis Roger</hi> called a Miniſter, formerly a journyman to <hi>Henry Walter,</hi> who learned him his trade, and now he receiveth great wages about <hi>Monmouth,</hi> for which he was impriſoned and ſent to the County Goal in <hi>Cardiff,</hi> and there detained a few dayes by <hi>Robert Thomas, Henry Morgan</hi> and <hi>Reece Powel</hi> called Juſtices, who releaſed him, and was never brought to Tryal, in the year 1658.</p>
+            <p>Again, <hi>Merridith Edward</hi> being moved, went into a Stee<g ref="char:EOLhyphen"/>ple-houſe called <hi>Trevening</hi> in <hi>Monmouth</hi>-ſhire, where he ſtood a witneſs againſt <hi>Henry Morgan</hi> called Miniſter, for which he was apprehended by <hi>Thomas Jones,</hi> who abuſed him much, and ſtrook him athwart the face, and commanded him to be
+<pb n="17" facs="tcp:107646:9"/> brought to <hi>Abergueny<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> before <hi>Henry Baker</hi> called Juſtice, who committed him to the County Gaol at <hi>
+                  <g ref="char:V">Ʋ</g>ske,</hi> where he was detained about five weeks, and at the quarter Seſſions was releaſed, in the year 1658.</p>
+            <p>Again, <hi>Merridith Edward</hi> being moved to go to a Steeple-houſe called the <hi>Vay<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>or</hi> in <hi>Brecknock</hi>-ſhire, where <hi>Jenkin Jones,</hi> who is accounted a high Prieſt, was, and by his hearers he was haled forth of the Steeple-houſe, and was much abuſed by <hi>Jenkin Jones</hi> himſelf, who enviouſly did accuſe him falſly, but could not prove it, therefore he is a falſe accuſer.</p>
+            <p>
+               <hi>Matthew Gibbon</hi> of <hi>Molton</hi> in the County of <hi>Glamorgan,</hi> for<g ref="char:EOLhyphen"/>merly a Captain in the ſervice of the Common-wealth to the ha<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ard of his life, with the loſs of the uſe of one of his Armes, for the Good Old Cauſe, the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iberty of Conſcience; and for the clearing of his Conſcience was moved to go into the Steeple-houſe at <hi>P<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nmark</hi> neer <hi>Molton,</hi> where <hi>Edward Morgan</hi> was, a time-ſerving greedy Prieſt, for which he was ap<g ref="char:EOLhyphen"/>prehended and brought before <hi>Robert Thomas</hi> called Juſtice, who commanded his hat to be taken off his head before him, and committed him to the County Goal in <hi>Cardiff,</hi> where he was detained about five dayes, and after let forth, and never brought to Tryal; No Law of the Nation had he broken.</p>
+            <p>Again, By a Warrant from the ſaid <hi>Robert Thomas</hi> called Ju<g ref="char:EOLhyphen"/>ſtice, was <hi>Merridith Edward</hi> brought before him, who en<g ref="char:EOLhyphen"/>deavoured to ſtop his mouth with <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> handkerchief, and took him by the throat, and one in the room endeavoured to hin<g ref="char:EOLhyphen"/>der him in ſo doing, the juſtice ſtruck him and committed him to Bridewell; the foreſaid M. E. for calling <hi>Griffith David,</hi> called Miniſter of the Goſpel, Thief and Hireling, and de<g ref="char:EOLhyphen"/>nying the Lords Supper, as it is expreſſed in the commit<g ref="char:EOLhyphen"/>ment, for which he was releaſed once, but the Prieſt being tormented, got him again to Bridewell by the ſame commit<g ref="char:EOLhyphen"/>ment, where he was whipped, and it is like he had been dealt more cruelly with, had not Major <hi>Golar,</hi> called Juſtice, pre<g ref="char:EOLhyphen"/>vented<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t who was a means for his releaſement; and as for the Prieſt <hi>Griffith David,</hi> whom they call Miniſter of the Goſ<g ref="char:EOLhyphen"/>pel, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e is well known to many to be a greedy hireling, and <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> marking his Neighbours ſheep, hath been brought before the Juſtices, where he was found faulty; but leaſt the reſt of
+<pb n="18" facs="tcp:107646:10" rendition="simple:additions"/> the Trade ſhould come to ſhame, it was let paſs. Therefore this man is not fit to be called a Miniſter of the Goſpel; and his Brother <hi>Henry Nichols,</hi> called Miniſter, went to Bride<g ref="char:EOLhyphen"/>well, it is like he went to give evil Councel to the Keeper, who is one of his Church. And <hi>Evan Morgan</hi> late Bailiff of <hi>Cowebridge,</hi> being there, viſiting the priſoner, ſome words paſſed between him and Prieſt <hi>Nichols,</hi> who violently ſtrook him twice in the Bridewell, for which he gave juſt cauſe to be corrected, and not <hi>Merridith Edward,</hi> who was whipped for no tranſgre<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſion, in the year 1658.</p>
+            <p>Again, By a Warrant with <hi>Edmund Thomas</hi> and <hi>Henry Mor<g ref="char:EOLhyphen"/>gans</hi> names unto it there were taken from <hi>Llewelyn Jones, Philip Lewis, Evan Philip</hi> and <hi>William Pierce</hi> of the Pariſh of <hi>Radree</hi> in <hi>Glamorgan</hi>-ſhire theſe goods following: From <hi>Llewelyn Jones</hi> one pot to boil meat in, from <hi>Philip Lewis</hi> one pot to boil meat in, from <hi>William Pierce</hi> three pewter platters, all theſe goods being taken from them for half a crown a piece, for not coming to the Steeple-houſe: but the pot ta<g ref="char:EOLhyphen"/>ken from <hi>Evan Philip</hi> a time after was reſtored, but the other pots and platters have not been reſtored yet. Therefore leaſt thoſe that were the cauſers of it, have forgotten it, this may bring it to their memories; and becauſe ſome of <hi>Harry Wal<g ref="char:EOLhyphen"/>ters</hi> Church, namely <hi>Edmond Thomas</hi> and <hi>William Thomas</hi> have been chief actors in theſe things, being Conſtables, who took away the goods, it is to be feared H. W. is not clear of theſe things, and if he be, let him cauſe his Members to reſtore the honeſt mens goods, and tell them ſo; this was done in the year <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>658.</p>
+            <p>
+               <hi>David Jones</hi> of <hi>Cardiff,</hi> who hath been an Officer in the Common-wealth, for the Good Old Cauſe, Liberty of Conſcience, and for Conſcience ſake could not pay 4 <abbr>d.</abbr> for a Garden, and 6 <abbr>d.</abbr> for a fleece of wool, for which he was arreſted by <hi>Benjamin Flower</hi> Prieſt in <hi>Gardiff,</hi> his Farmers, and was kept in priſon many weeks, for the ten pence by them ſworn, who ſaid, they had a hard bargain of him, and it is like it was ſo, from ſuch a greedy man, and it is like had he ſworn himſelf, it would have been more large, if not treble dammage: and although this Prieſt hath ſuch great wages, he was loath to looſe ten pence of <hi>David Jones</hi> carnalls, though
+<pb n="19" facs="tcp:107646:10" rendition="simple:additions"/> he never ſowed Spiritual to him; who was let out of priſon to the great ſhame of the Prieſt and his hearers, who would not part with ten pence to pay their Prieſt to cover his ſhame; in the year 1658.</p>
+            <p>Again, <hi>Morgan Robin</hi> of <hi>Penarth</hi> in the County of <hi>Glamor<g ref="char:EOLhyphen"/>gan,</hi> was arreſted in <hi>Cardiff,</hi> and kept in priſon about 5 weeks, for about the value of eleven ſhillings and ſix pence Tithe, by Farmers, and afterwards releaſed by them, and then took from him a Steer worth thirty ſhillings, which they brought to Pound, and prized it, and ſhared the money betwixt them, not returning the overplus.</p>
+            <p>Again, Taken away from <hi>Edmund Thomas</hi> of <hi>Molton</hi> in the County of <hi>Glamorgan,</hi> two Cowes worth ſix pounds, for <hi>John French</hi> Prieſt of <hi>Wenvoe,</hi> his demand being about three pounds, never proffering the overplus; in the year 1658.</p>
+            <p>Taken from <hi>John David</hi> of <hi>Molton</hi> in the ſame County, nine ſheep worth about three pounds, for the ſaid Prieſt <hi>John French</hi> of <hi>Wenvoe,</hi> his demand being about twenty four ſhil<g ref="char:EOLhyphen"/>lings; in the year 1658.</p>
+            <p>Taken from <hi>Matthew Gibbon</hi> of <hi>Molton</hi> for the ſaid Prieſt four Lambs worth twelve ſhillings, having but three acres of land in his pariſh, 1658.</p>
+            <p>Again taken from <hi>Matthew Gibbon</hi> two ſheep worth ten ſhil<g ref="char:EOLhyphen"/>lings by <hi>Edward Richard</hi> farmer, his demand being but two ſhillings, and never returned the overplus.</p>
+            <p>Taken from <hi>Evan Leonard</hi> of <hi>Melton,</hi> one Ewe worth eight ſhillings, he being a poor man having ſix children, by <hi>Edward Richard</hi> of <hi>Llancarvan,</hi> his demand being but four ſhillings, and never returned the overplus, in the year 1658.</p>
+            <p>Taken from <hi>Edmund Thomas</hi> of <hi>Molton</hi> four ſheep worth twenty ſhillings by the ſaid <hi>Farmer,</hi> his demand being about two ſhillings, and according to the cuſtom of the pariſh, there was no Tithes due.</p>
+            <p>Taken from <hi>Morgan Gibbon</hi> of <hi>Fagan</hi> in the County afore<g ref="char:EOLhyphen"/>ſaid two Oxen worth about twelve pounds, for <hi>Edmund Ellis</hi> Prieſt of that Pariſh, his demand being about three pounds, and about ſix moneths after ſued him again for Tithes, in the year, 1658.</p>
+            <p>Again taken from <hi>Daniel Hopkins,</hi> and <hi>Thomas Hopkins</hi> of <hi>Llandilo</hi> in the County aforeſaid a cow, and a Mare, for <hi>Gre<g ref="char:EOLhyphen"/>gory
+<pb n="18" facs="tcp:107646:11"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="19" facs="tcp:107646:11"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="20" facs="tcp:107646:12"/> Jones</hi> called Miniſter of that Pariſh, the demand being a<g ref="char:EOLhyphen"/>bout ſeven ſhillings, and the Cow and Mare were worth about four pounds, and this Prieſt was a perſecutor of the honeſt party in <hi>Charles Stuarts</hi> time, and is an envious lying man, and a devourer of the Creation, yet is allowed to take four pounds for ſeven ſhillings Tithe, which is a great ſhame to <hi>South-Wales</hi> to call ſuch men Miniſters of the Goſpel.</p>
+            <p>Again taken from <hi>Joan Reed</hi> widdow of the pariſh of <hi>Wilſtone</hi> in the County of <hi>Munmo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>th,</hi> a Cow worth about four pounds by <hi>William Catchmay,</hi> for the Tithe of 6 acres of wheat, beans and oats, and no overplus offered, though ſhe is a poor widdow woman, in the year 1658.</p>
+            <p>
+               <hi>Walter Watkins</hi> and his wife of the Pariſh of <hi>Shere-newton</hi> in the County of <hi>Monmouth,</hi> were both committed to the County Goal in <hi>
+                  <g ref="char:V">Ʋ</g>sk</hi> for about twenty ſhillings Tithes demanded by <hi>Richard William</hi> Prieſt of <hi>Shere-newton,</hi> whoſe men in the field did exceedingly abuſe <hi>Walter Watkins</hi> wife, and one of them, <hi>Paul Blethin</hi> laid the pike to her breaſt, ſaying, he would run her through for denying the Tithe to feed the Prieſts God, which is their bellies; Therefore their enmity was againſt her and ſhe was committed to priſon with her husband, which was againſt the Law of the Nation, that a man and his wife ſhould be committed both for Tithes, this was in the year, 1658.</p>
+            <p>
+               <hi>John Thomas</hi> of <hi>G<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ldelift</hi> in the County of <hi>Munmouth</hi> was committed to the County Goal in <hi>
+                  <g ref="char:V">Ʋ</g>sk</hi> by <hi>Edward Herbert</hi> cal<g ref="char:EOLhyphen"/>led Juſtice for not ſwearing to be a Conſtable, though he did not deny to ſerve the office, becauſe he refuſed to ſwear, which is contrary to the command of Chriſt, <hi>Mat.</hi> 5 33, 34, 35, 36. he therefore was committed to priſon and detained there four moneths by <hi>Edward Herb<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rt</hi> called Juſtice, but little Juſtice was done by him in keeping the honeſt labouring man in priſon ſo long from his wife, and family, whom he maintain<g ref="char:EOLhyphen"/>ed by his induſtry, this was done in the year, 1658.</p>
+            <p>Taken from <hi>Walter Watkin</hi> of the Pariſh of <hi>Shere-newton,</hi> in the County of <hi>Munmouth,</hi> two pack ſaddles for three ſhillings rated upon him toward the reparation of the Steeple-houſe, there by <hi>Philip Lewis</hi> Conſtable in the year 1658.</p>
+            <p>Taken from <hi>John Thomas</hi> of <hi>Goldelift</hi> one braſs kettle worth ten ſhillings for three ſhillings, rated on him for reparation of the Steeple-houſe there, and no overplus offered him; <hi>Wil<g ref="char:EOLhyphen"/>liam Dapwell</hi> was the man that took it, who is one of <hi>Thomas
+<pb n="21" facs="tcp:107646:12" rendition="simple:additions"/> Barns</hi> his Church, Prieſt in <hi>Magor,</hi> and if Prieſt <hi>Barns</hi> be clear of this thing, let him cauſe <hi>VVilliam Dapwel</hi> to bring <hi>John Thomas</hi> his kettle home, and tell him ſo; this was done in 1658.</p>
+            <p>Taken from <hi>Edmund Thomas</hi> of <hi>Molton,</hi> in the County of <hi>Glamorgan</hi> a braſs pot worth about 50 <abbr>s.</abbr> for 13 <abbr>s.</abbr> rated upon him towards the reparation of the Steeple-houſe of <hi>VVenvo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> where <hi>John French</hi> a greedy Prieſt is called Miniſter but by his fruits is made manifeſt, and no overplus is profered to <hi>Edmund Thomas</hi> done in the year, 1658.</p>
+            <p>Taken from <hi>Matthew Gibbon</hi> of <hi>Molton,</hi> one pewter tankard towards the reparation of that Steeple-houſe; in all taken for that greedy Prieſt <hi>French,</hi> towards the ſaid rep<gap reason="illegible" resp="#KEYERS" extent="5 letters">
+                  <desc>•••••</desc>
+               </gap>i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n twelve pounds and more in ſheeep, Cows, Lambs, braſs, pew<g ref="char:EOLhyphen"/>ter, and the demand hardy amounts to five pounds.</p>
+            <p>Again <hi>Mary Richard</hi> and <hi>Mary Moſs</hi> of <hi>Pennarth</hi> in <hi>Ci<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>y</hi> for clearing their conſcience to <hi>John C<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tts</hi> Prieſt, were haled, and beaten, and drawn up a pair of ſtairs, and there ſet in ſtocks by the Conſtable and Prieſts man, <hi>Cradock Griffith, Walter Rayland, John Lewis, VVilliam Lewis, John M<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, John Fabarn.</hi>
+            </p>
+            <p>Again, <hi>E<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iz beth Holme</hi> according to the leadings of the ſpi<g ref="char:EOLhyphen"/>rit of truth, went into Pembrookſhire, where large meetings ſhe had, and in a meeting at <hi>Thomas Ba<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rats</hi> houſe in Tenbigh in the aforeſaid County, where <hi>Adam Hawkins</hi> Prieſt came with two Bibles under his arm,<note place="margin">Joel 2.28. Act. 21.9.2.17. Rom. 16.3</note> and ſtanding till the meeting was ended, and there ſpoke to <hi>Elizabeth H<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lmes,</hi> ſaying, <hi>Paul</hi> ſaid a woman was not permitted to ſpeak, the which ſhe clear<g ref="char:EOLhyphen"/>ed unto him, as it is plain according to Scripture, How <hi>P<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iſ<g ref="char:EOLhyphen"/>ci<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a</hi> was <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aul,</hi> fellow-helper; and that one had four daughters which did declare the word of truth, and the Lord ſaid he would power of his ſpirit on all fleſh, and ſons and daugh<g ref="char:EOLhyphen"/>ters ſhould prophecy in his name; ſo it is very clear the ſpi<g ref="char:EOLhyphen"/>rit of truth is permitted to ſpeak in male and female, to which this Prieſt <hi>Hawkins</hi> could little object, but ſaid, he did believe that <hi>Elizabeth Holm<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> was a woman that did convert many ſouls to God, and it was truth ſhe ſpake, and if ſhe would come to <hi>Hart<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ordweſt,</hi> where he was going to be Mini<g ref="char:EOLhyphen"/>ſter, he would give her way to ſpeak to the people, a time af<g ref="char:EOLhyphen"/>ter ſhe went to <hi>Hartfordwe<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>,</hi> according to the leading of the ſpirit of truth, and another friend with h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r, <hi>Alice Burkat</hi> which was about the beginning of the ſecond moneth 59.
+<pb n="22" facs="tcp:107646:13"/> where they had a large meeting in <hi>William Batemans</hi> houſe, the which tormented the Magiſtrates and Prieſt, that officers came and brought <hi>Elizabeth Holmes,</hi> and <hi>Alice, Burkat,</hi> and <hi>William Bateman,</hi> before the Maior, and <hi>Thomas Davis</hi> called Juſtice, and by them <hi>Elizabeth H lmes</hi> and <hi>Alice Burkat,</hi> were committed to the houſe of Correction, and by the maſter of the houſe of Correction, at firſt, was threatned to ſet bolts on them, but he did not do it, ſo afterwards became very loving, and ſuffered meetings in the priſon, where they were detai<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed about fourteen dayes untill the Quarter Seſſions, Prieſt <hi>Adam Hawkins</hi> came unto them, endeavoring to clear himſelf that he had no hand in the Impriſonment, but they would not believe him, but told him the contrary; ſo to the quarter Seſſions they were brought, where the Maior and <hi>Thomas Davis,</hi> and more men called Juſtices were, and Prieſt <hi>Hawkin<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>;</hi> ſo unto them <hi>Elizabeth H<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lmes</hi> declared what paſſed betwixt the Prieſt and her in <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>enbig<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> and how he came unto them to clear himſelf of having any hand in the perſecuting of them, then <hi>Thomas Davis</hi> one of them that had committed them, ſaid in open Court, that he would not let them be quiet until they were impriſoned, and ſo reproved the Prieſt, and ſaid unto him, that if he would not be more watchful of his words, he was not fit to be their Miniſter; and by the Court in the Seſſions was <hi>Elizabeth Holmes</hi> and <hi>Alice Burkat</hi> cleared, and by it were <hi>Lewis Barron</hi> Mayor, and <hi>Thomas Da<g ref="char:EOLhyphen"/>vis</hi> made manifeſt, who had committed them as vagabonds and wanderers, but from being ſo they are clear; and the ſalſe accuſations atop of them was caſt, and by truth judged into the pit of darkneſſe, from whence it did ariſe with their enmi<g ref="char:EOLhyphen"/>ty who commited <hi>William Bateman</hi> at firſt for receiving them, a man all along well affected to the honeſt party, and ſuffered much loſs by <hi>Charls Stuarts</hi> party, and now ſome of the Magi<g ref="char:EOLhyphen"/>ſtrates of <hi>Hartford-weſt</hi> formerly adhering to <hi>Charls Stuart,</hi> hath an enmity againſt him as plainly doth appear, who en<g ref="char:EOLhyphen"/>deavoured with Prieſt <hi>Hawkins</hi> to lay blaſphemy to his charg, ſo under that colour committed him to priſon, there to remain to the great aſſizes for the County; and <hi>Humphery Wi<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>iams</hi> with him both expreſſed in the ſame commitment; ſo ſome of <hi>William Batemans</hi> relations gave bail to anſwer accordingly, if they would bring the matter before the Judge of the Aſſizes
+<pb n="23" facs="tcp:107646:13"/> without fainting it would be well, for if they do ſo, it is like the Magiſtrates enmity, and the Prieſts ſhame will be double made manifeſt.</p>
+            <p>And after <hi>Elizabeth Holms</hi> and <hi>Alice Burkat</hi> were releaſt by them at the Seſſions, about a day after <hi>Alice Burkat</hi> meet with the Mayor in the ſtreet, and ſpoke a few words unto him, for which he ſent her to Bride-well, and about two dayes ſhe was kept there, and after made a lying paſs, intending to ſend her to <hi>Card<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ff,</hi> ſo forth of <hi>Harford-we<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t</hi> ſhe was brought with it, but the Conſtable having leſs enmity, and more wiſdom then the Magiſtrates, let her go where ſhe would; and theſe are the fruits of <hi>L<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>wis Barran</hi> called Mayor of <hi>Hartfort-we<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t,</hi> and <hi>Tho<g ref="char:EOLhyphen"/>mas Davis</hi> called <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uſtice, and <hi>Adam Hawkins</hi> called a Miniſter, who was proved in open Court a notorious lyar in <hi>Hartford-weſt</hi> in <hi>P<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>-ſhire</hi> commonly called Little <hi>England</hi> beyond <hi>VVal<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s</hi> where this Prieſt is called a Miniſter, who violently ſtruck <hi>John ap Jones</hi> in the houſe of <hi>VVilliam Bateman</hi> witneſſes, <hi>Henry K ly,</hi> and <hi>VVil Bateman</hi> with others, this is a great ſhame to <hi>Hartford-w<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>t</hi> to ſuffer ſu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h a man to be called their Miniſter.</p>
+            <p>Again <hi>J<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nnit Jones</hi> of <hi>Hartford-w<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>t</hi> for ſtanding before this Prieſt <hi>Ad<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m Hawkin<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> in the Steeple-houſe of <hi>Hartford-weſt,</hi> the Magiſtrate, and the people were amazed as they relate in the Commitment, for which ſhe was committed to the houſe of correction, till the quarter Seſſions by <hi>Lewis Barran</hi> called Mayor of <hi>Hartford-weſt,</hi> about the 1<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of the 2 moneth, 1659.</p>
+            <p>Again <hi>William Thomas</hi> of <hi>Llanducy</hi> in <hi>P<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mbrook-ſhire</hi> for ſtand<g ref="char:EOLhyphen"/>ing witneſs againſt <hi>Stephen H<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ges</hi> called Miniſter in the Stee<g ref="char:EOLhyphen"/>ple houſe of <hi>Llandevil<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> for which he was apprehended and brought before <hi>John El<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iot</hi> called Juſtice, who committed him to Goal, and there to remain until the general Seſſions to be holden for the County of <hi>P<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mbrook,</hi> this was done in the name of the Keepers of the Liberty of England the 23 day of the third moneth, 1659.</p>
+            <p>Though this man <hi>Stephen Hughes</hi> be accounted ſuch a great Prieſt in <hi>P mbrook</hi> and <hi>Carmarthen</hi> ſhires, yet here he is made manifeſt to be a perſecutor, and a ſtriker, who ſtruck <hi>Evan John</hi> of the Pariſh of <hi>Landeny</hi> in the County aforeſaid, in the preſence of <hi>William Thomas,</hi> and <hi>G <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rge H<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>wel</hi> of the ſaid pariſh</p>
+            <p>Again <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lizabeth Holms</hi> being moved of the ſpirit of truth, &amp;. <hi>Alice Burkat</hi> with her to go to the Steeple-houſe called <hi>Chriſt-Church,</hi>
+               <pb n="24" facs="tcp:107646:14"/> in <hi>Munmouth-ſhire</hi> where <hi>VValter Cradock</hi> was, who haled <hi>Alice Burkat</hi> down, and ſaid get thee behind me Satan.</p>
+            <p>Again the firſt day of the week, being the eighth day of the third moneth, <hi>Elizabeth Holms</hi> was moved of the Lord to go to <hi>VValter Craddock</hi> in the ſame place above mentioned, and af<g ref="char:EOLhyphen"/>ter he had ended, ſhe propoſed a Queſtion unto him in much moderation, and required him to anſwer her, in anſwer, he bad the Magiſtrates do what they would unto her, and ſo fled like a hireling, and the Magiſtrates did not perſecute her, but were very moderate, &amp; ſome of them with much people heark<g ref="char:EOLhyphen"/>ened diligently to the word of truth which ſhe ſpake which is more commendations for them, and ſhame to the chief Prieſt <hi>VVal. Craddock</hi> who uttered forth ſuch words to the Magiſtrats</p>
+            <p>Again the firſt day of the week being the 5th of the fourth moneth, 1659. <hi>Elizabeth Holms</hi> and <hi>Francis Gawler</hi> of <hi>Cardiff,</hi> going to a meeting in <hi>M<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nmouth-ſhire,</hi> beyond the place called Chriſt-church according to the leading of the ſpir<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t of truth, was made to return back to the Steeple-houſe above menti<g ref="char:EOLhyphen"/>oned, and let <hi>Elizabeth Holms</hi> go to the meeting, and for ſtanding before <hi>VValter Craddock</hi> above mentioned about the beginning of his Sermon, <hi>Craddock</hi> ſaid to his friends, <hi>Let me have peace,</hi> and <hi>Francis Gawler</hi> did not ſpeak a word to him then ſo ſuddenly one <hi>Th<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mas Jon<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s</hi> a chief man, ſometimes a ſpeaker for the Prieſt; haſtily leads him away, and in going forth, <hi>Francis Gawler</hi> asked <hi>VValter Craddock,</hi> whether he did own him in haling him forth, to which he anſwered noth<g ref="char:EOLhyphen"/>ing; but the man <hi>Thomas Jones</hi> ſaid, <hi>he did own him in ſo doing;</hi> ſo accordingly did bring him forth of the Steeple-houſe, and faſtened the door, and none ſhould be permitted to come in, but thoſe that had the mark of the beaſt in their foreheads, and many of the people came forth of the Steeple-houſe, then the man <hi>Thomas Jones</hi> came forth alſo, and brought <hi>Francis G<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>wler</hi> away from the people, and gave him to the conſtable, &amp; charged him to keep him, but the Conſtable being a harmleſs man let him go, and a time after <hi>Francis Gawler</hi> met <hi>VValter Craddok</hi> coming from the Ale-houſe where he had bin at dinner, going to the Steeple-houſe to his afternoon Sermon, ſo ſpoke a few words to <hi>VVal. Craddock</hi> to which he gave no anſwer; but pre<g ref="char:EOLhyphen"/>ſently complained to captain <hi>Bl<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>thin</hi> called Juſtice, ſaid if he would not take ſome courſe with him, he would take his horſe
+<pb n="25" facs="tcp:107646:14"/> and go away, ſo according to his complaint, <hi>Bleathin</hi> led him away and gave him to the Conſtable, and charged him to keep him priſoner.</p>
+            <p>Then ſuddenly one <hi>Henry Williams</hi> called a Lieutenant did much abuſe <hi>Francis Gawler</hi> and called him a Vaga<g ref="char:EOLhyphen"/>bond, though he knew he had been a Commiſſion Officer, in the Gariſon of <hi>Cardiff</hi> in the ſame Regiment with him; Yet ſuch was the mans enmity and Malice againſt <hi>Francis Gawler,</hi> for the chief Prieſt that he called <hi>Francis Gawler</hi> a Vagabond, and charged the Conſtables to keep him Priſoner; ſo according to Captaine <hi>Bl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>athins</hi> Order, was <hi>F ancis Gawl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r</hi> kept Priſo<g ref="char:EOLhyphen"/>ner that day and night, the next day by the Conſtable was he brought to <hi>Newport,</hi> and there <hi>Bl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>athin</hi> in Prieſt Jenkins houſe Ordered the Conſtable in the name of the keepers of the Liberties of England, to keep him in cuſtody, and bring his body before him and his aſſociate Juſtice, to <hi>Lla<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>melin</hi> the Governer of <hi>Ch<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>pſtowes</hi> houſe, the 7. day of the 4 moneth, ſo accordingly the Conſtable brought him before them, and in the way met with <hi>Bleathin</hi> and the Prieſt, <hi>John Howell</hi> go<g ref="char:EOLhyphen"/>ing to the Governours houſe, ſo the Prieſt having Guilt on him, indeavoured to cleare himſelf, ſaying he was ſorry to ſee <hi>Francis Gawler</hi> brought from one place to another, and that he had no hand in it, but before the Governours and the Juſtice, his treachery and double-mindedneſs, was made manifeſt and hypocriſie, who endeavoured to Impriſon <hi>Fran<g ref="char:EOLhyphen"/>cis Gawler,</hi> with <hi>Walter Craddocks</hi> Informers, Namely <hi>Ed<g ref="char:EOLhyphen"/>mond Morgan</hi> of <hi>Newport,</hi> who informed the Governour that <hi>Walter Craddock,</hi> ſaid unto him on the word of a man, and as he was a miniſter, that he was never ſo diſturbed in all his life time, and if ſome courſe might not be taken with <hi>Fran<g ref="char:EOLhyphen"/>cis Gawler,</hi> he would never come there more; and Prieſt <hi>John Howel</hi> informed and ſaid <hi>Francis Gawler</hi> would not let them alone, but ſpake to them in the way, and called them de<g ref="char:EOLhyphen"/>ceivers, and that they had the mark of deceivers in their fore<g ref="char:EOLhyphen"/>heads, and ſo the Governour and Juſtice would have <hi>Francis Gawler</hi> to promiſe them to meet them that day moneth, and they would give him liberty till then, but he would not make no ſuch promiſe, but required them that he ſhould be tryed, for he had been ſeverall dayes in priſon already, and ſo re<g ref="char:EOLhyphen"/>quired the Law to be proved he had broken, and he was
+<pb n="26" facs="tcp:107646:15"/> willing to ſuffer for declaring againſt deceivers, then <hi>Fran<g ref="char:EOLhyphen"/>cis Bleathin</hi> ſaid, they could keep him ſix dayes before they committed him, then the Governour would have him pro<g ref="char:EOLhyphen"/>miſe to leave <hi>Walter Craddock</hi> and his former paſtor and the reſt of the Miniſters alone, and not ſpeak to them, and they would let him go; but no promiſe he would make, for he ſtood not in his own will, but as the ſpirit of truth led him, he muſt ſpeak to them, who hath the mark of deceivers in their foreheads, and ſo a time after by the aforementioned men, <hi>Francis Gawler</hi> was releaſed, and the Conſtable which kept him Priſoner ſaid he was diſturbed; and theſe are the fruits of <hi>Water Craddock</hi> and <hi>John Howel</hi> called Miniſters, who ſtruck <hi>Thomas Holms</hi> twice with his horſe Rod, till the Rod twined about him; and <hi>Walter Craddock</hi> neer <hi>Newport</hi> in the aforeſaid County, meeting <hi>Francis Gawler,</hi> cryed unto him, ſaying, <hi>Get thee behind me Satan, I have hearkned to thee, but now do deny thee, thou doſt torment me day and night, I ſpeak not to thee</hi> Gawler, <hi>but to the devil in thee;</hi> So <hi>Francis Gawler</hi> made a re<g ref="char:EOLhyphen"/>ply unto him, his anſwer was, <hi>I will not hearken to the Devil;</hi> So <hi>Francis</hi> ſpake to him in much moderation; Then he cal<g ref="char:EOLhyphen"/>led <hi>Francis</hi> a flattering Devil, and violently ſtruck the beaſt that <hi>Francis</hi> rode on, endeavouring to get F. G before him, but <hi>Francis Gawler</hi> having not the freedom to paſs, ſtopped the beaſt, then his man (or one that rode with him) came and helped him till they brake their weapons upon the beaſt, and at laſt paſſed away before <hi>Francis Gawler;</hi> and <hi>VValter Cradock</hi> in <hi>Newport</hi> called for the Magiſtrates, &amp; ſaid he would have <hi>Fran. Gawler</hi> faſt, and <hi>Francis Gawler</hi> went with him till he alighted, about the middle of the Town, and there left him, where he was going to preach over <hi>Hen. VValters</hi> wife, which was then going to be buried, and it was ordered according to the leadings of the ſpirit of Truth, that <hi>Elizabeth Holmes</hi> and <hi>Alice Burkat</hi> came to <hi>Newport,</hi> and they went into the Steeple-houſe in <hi>Newport,</hi> where <hi>Walter Craddock</hi> was, who ſaid in his delivery, the wicked was tormented night and day, and a little before he did acknowledge he was tormented night and day, therefore by his own words he is a wicked man, who then fled like a hireling, and would not ſtand fearing torment, and this man is taken to be the chiefeſt Prieſt in <hi>South-Wales,</hi> who de<g ref="char:EOLhyphen"/>ceives many ſimple hearted people, going under the name of
+<pb facs="tcp:107646:15"/> receiving no Tithes, but pleading for Tithes deep in the Mi<g ref="char:EOLhyphen"/>ſtery of iniquity, with his brethren <hi>Henry Walter,</hi> and <hi>Thomas Barns,</hi> with others who goes under the name of receiving no Tithes; but when the day of account comes their judgement will be great for Tythes-guilty, and others of their evil deeds when they are brought to the bar of Juſtice to account, which will be ſooner then they are aware of, and theſe men afore<g ref="char:EOLhyphen"/>named are called Miniſters of the Goſpel who are out of the doctrine of Chriſt, who ſaith if one ſmite thee on the right cheek, turn to him the other alſo, and if any man ſues thee at the Law &amp; take away thy coat, let him have thy cloak alſo, <hi>Mat.</hi> 5.39.40 Now theſe men are fighters and ſtrikers, falſe accuſers, pullers by the hair of the head, evil ſpeakers, drivers away of Oxen, and Kine, and Mares, and Lambs, ſuers at the Law, and impriſoning for the value of ten pence, exceeding their Bre<g ref="char:EOLhyphen"/>thren the falſe Prophets, greedier then they, ſeeking their gain from their quarter, and dawbing with untempered <hi>M<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rtar,</hi> preaching peace, peace unto them that put into their mouths, and prepareing war, and impriſoning thoſe that will not put into their mouths, and one of their Clerks, ſaying, they muſt have their due from the Devil, whoſe Miniſters they are; ther<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>fore we deny them, and cannot pay them wages.</p>
+            <p>
+               <hi>Edmund Elis</hi> aforenamed taker of Oxen, who threatened to ſtrike <hi>Francis Gawler</hi> of <hi>Cardiff</hi> over the head, lifting up his cain ſo to do in the rode to <hi>Briſtol,</hi> and at another time in the Poſt<g ref="char:EOLhyphen"/>houſe in <hi>Cardiff,</hi> took up a chair above ground thinking to ſtrike him, but another being in the room, hindred him of his wick<g ref="char:EOLhyphen"/>ed purpoſe.</p>
+            <p>
+               <hi>John Robert</hi> Prieſt about <hi>Swanzie,</hi> who came from <hi>New-En<g ref="char:EOLhyphen"/>gland</hi> aforementioned, and haling by the hair of the head, who alſo ſtruck Lieutenant Colonel <hi>Bowens</hi> ſiſter for theeing and thouing him.</p>
+            <p>Again <hi>Marmaduke Matthew</hi> Prieſt of <hi>Swanzie,</hi> who came from <hi>New-England,</hi> an envious perſecutor, who was one with the Magiſtrates of <hi>Swanzie</hi> to chain <hi>Elizabeth Holms</hi> by the leg, and pinchd <hi>Alice B<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rkat</hi> till her blood came forth, and ſaid to <hi>Roger Co<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lbech</hi> of <hi>Swanzie,</hi> were it not for a conſtraining pow<g ref="char:EOLhyphen"/>er he we would box him, and ſo thruſt him away; and again the ninteenth day of the fourth moneth, he thruſted <hi>Francis Gawler</hi> of <hi>Cardiff</hi> in <hi>Swanzie</hi> againſt <hi>William Beavon,</hi> and called
+<pb facs="tcp:107646:16"/> for the Conſtable, and <hi>William Beavon</hi> asked him why he did ſo, and this becauſe <hi>F. G.</hi> would not hearken unto him, and this Prieſt endeavoured with the Magiſtrates of <hi>Swanzie,</hi> that they might take ſome courſe with them that kept meetings in their houſes, and it is like he would have dealt with them as wickedly as his brethren did in <hi>New-England,</hi> who is of that ſpirit if he had power.</p>
+            <p>
+               <hi>James Jones</hi> Prieſt about <hi>Swanzie</hi> one in perſecuting, greedy of filthy lucre, a gamer at bowling, having his mark in his fore<g ref="char:EOLhyphen"/>head, who pleaded for his bowling with <hi>Fran. Gawler</hi> f <hi>Cardiff.</hi>
+            </p>
+            <p>Again <hi>Thomas Quarr l</hi> who is called <hi>Edmund Thomas</hi> chaplain, who goes under the name of receiving no Tithes, but at the Bar of Juſtice, guilty with his brethren, who is a falſe accuſer, and an evil reporter of the truth, and called <hi>Francis Gawler,</hi> a new found Papiſt, a man well known from his childhood alwayes againſt ſuch, but this Prieſt being a falſe accuſer, it little matters what he ſayes, who is found with his brethren, one with the Papiſts in their practiſe, whom we deny root and branch, Prieſt and hirelings and all their adherents, with their Clerks, and cannot pay them wages, leaſt we partake of their plagues; therefore peaceably we ſuffer impriſonment, and the making havock of our goods, counting it great joy that we are found worthy to ſuffer for righteouſneſſe ſake, and in ſo doing we have peace and joy which no man can take a<g ref="char:EOLhyphen"/>way, and we ſee the fighters and ſtrikers before mentioned, who are devourers of the creation, in torment and great trouble, fearing their great trading will fail, which hath been a ſhak<g ref="char:EOLhyphen"/>ing this long time; <hi>and now it is high time for it to fall which we patiently wait for, knowing the Lord God Almighty of Heaven and earth hath heard the cry of the oppreſ<g ref="char:EOLhyphen"/>ſed, and in his due time will remove all oppreſſion, and all that burthen, them that ſtand in his fear, who are a terror to evil deers, whoſe practiſes is here in ſhort land down, and if occaſion he, we may be more at large hereafter if required from us, who in ſcorn are called Quakers in</hi> South Wales.</p>
+            <p>
+               <hi>Again about the beginning of the</hi> 4th <hi>moneth,</hi> 1659 <hi>was taken away from</hi> Arnold Thomas <hi>of</hi> Lanughanh, Llantinam <hi>in Munmouth-ſhire, One Cow worth about four pound, for about two and twenty ſhillings for Tithe, this Cow was taken by Arnold Williams a farmer,</hi> a <hi>Papiſt, and</hi> William Davy <hi>a Bayliff, both Papiſt; who took away the Cow, and ſold her, and proffered no overplus Now let the Prieſts be aſhamed to accuſe us to be Papiſts, and they one with the Papiſts in their practiſes, and taking away our goods, double and treble damages, like Papiſts, like Prieſts, and as troops of robbers wart for a man ſo the company of Prieſts murders by conſent,</hi> Hoſ. 6.9.</p>
+            <closer>
+               <dateline>written in <hi>Cardiff</hi> in <hi>Glamorgan-ſhire</hi>
+                  <date>the 4th <hi>moneth,</hi> 1659.</date> 
+                  <hi>South Wales.</hi>
+               </dateline>
+               <signed>By me <hi>Francis Gawler</hi>
+               </signed>
+            </closer>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
